@@ -8,7 +8,7 @@ A responsive music player web app built using **React (Vite)**. The app allows u
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend Framework:** React + Vite  
 - **Languages Used:** JavaScript, HTML, CSS  
