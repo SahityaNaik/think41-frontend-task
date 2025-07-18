@@ -1,14 +1,14 @@
-# Music Player - Think41 Task
+#  Music Player – Think41 Task
 
-A responsive web-based music player built using React (via Vite). It allows users to:
+A responsive music player web app built using **React (Vite)**. The app allows users to:
 
-1.Play, pause, and navigate songs
-2.View current track details
-3.Interact with a clean and functional UI
+-  Play, pause, and switch between songs  
+-  View current track details  
+-  Navigate a clean and interactive UI
 
-# Tech Stack
-Frontend: React + Vite
-Languages: JavaScript, HTML, CSS
- 
+---
 
- 
+## 🛠 Tech Stack
+
+- **Frontend Framework:** React + Vite  
+- **Languages Used:** JavaScript, HTML, CSS  
